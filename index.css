@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Custom Backgrounds for Freakybob.site
+@namespace      github.com/Freakybob-Team/custombg
+@version        2.1
+@description    Custom backgrounds for https://freakybob.site!
+@author         Freakybob Team
+==/UserStyle== */
+
+@-moz-document url-prefix("https://freakybob.site") {
+body {
+    background-image: url("https://freakybob.site/images/Bikinibottom.jpg") /* change this URL! */ !important;
+}
+}
